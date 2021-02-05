@@ -11,7 +11,7 @@ pool:
     demands:
     - npm
   
- variables:
+variables:
     buildConfiguration: 'Release'
   
 steps:
